@@ -1,0 +1,5 @@
+F:\C#\Coll\SumNepar\SumNepar\bin\Debug\SumNepar.exe
+F:\C#\Coll\SumNepar\SumNepar\bin\Debug\SumNepar.pdb
+F:\C#\Coll\SumNepar\SumNepar\obj\x86\Debug\SumNepar.csprojResolveAssemblyReference.cache
+F:\C#\Coll\SumNepar\SumNepar\obj\x86\Debug\SumNepar.exe
+F:\C#\Coll\SumNepar\SumNepar\obj\x86\Debug\SumNepar.pdb

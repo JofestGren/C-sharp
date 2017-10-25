@@ -1,0 +1,4 @@
+C:\Users\Jofest\Documents\Projects\EasyNum\EasyNum\bin\Debug\EasyNum.exe
+C:\Users\Jofest\Documents\Projects\EasyNum\EasyNum\bin\Debug\EasyNum.pdb
+C:\Users\Jofest\Documents\Projects\EasyNum\EasyNum\obj\x86\Debug\EasyNum.exe
+C:\Users\Jofest\Documents\Projects\EasyNum\EasyNum\obj\x86\Debug\EasyNum.pdb

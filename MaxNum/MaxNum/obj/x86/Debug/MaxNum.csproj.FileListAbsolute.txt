@@ -1,0 +1,5 @@
+F:\C#\Coll\MaxNum\MaxNum\bin\Debug\MaxNum.exe
+F:\C#\Coll\MaxNum\MaxNum\bin\Debug\MaxNum.pdb
+F:\C#\Coll\MaxNum\MaxNum\obj\x86\Debug\MaxNum.csprojResolveAssemblyReference.cache
+F:\C#\Coll\MaxNum\MaxNum\obj\x86\Debug\MaxNum.exe
+F:\C#\Coll\MaxNum\MaxNum\obj\x86\Debug\MaxNum.pdb
