@@ -1,0 +1,5 @@
+F:\C#\Coll\Practica 1\PrimeDivisorsNum\PrimeDivisorsNum\bin\Debug\PrimeDivisorsNum.exe
+F:\C#\Coll\Practica 1\PrimeDivisorsNum\PrimeDivisorsNum\bin\Debug\PrimeDivisorsNum.pdb
+F:\C#\Coll\Practica 1\PrimeDivisorsNum\PrimeDivisorsNum\obj\x86\Debug\PrimeDivisorsNum.csprojResolveAssemblyReference.cache
+F:\C#\Coll\Practica 1\PrimeDivisorsNum\PrimeDivisorsNum\obj\x86\Debug\PrimeDivisorsNum.exe
+F:\C#\Coll\Practica 1\PrimeDivisorsNum\PrimeDivisorsNum\obj\x86\Debug\PrimeDivisorsNum.pdb

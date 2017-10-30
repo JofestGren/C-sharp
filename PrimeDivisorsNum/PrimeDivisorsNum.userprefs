@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="PrimeDivisorsNum\PrimeDivisorsNum.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrimeDivisorsNum\Program.cs">
+    <Files>
+      <File FileName="PrimeDivisorsNum\Program.cs" Line="39" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
