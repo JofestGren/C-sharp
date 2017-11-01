@@ -1,0 +1,5 @@
+F:\C#\Coll\HappyTicket\HappyTicket\bin\Debug\HappyTicket.exe
+F:\C#\Coll\HappyTicket\HappyTicket\bin\Debug\HappyTicket.pdb
+F:\C#\Coll\HappyTicket\HappyTicket\obj\x86\Debug\HappyTicket.csprojResolveAssemblyReference.cache
+F:\C#\Coll\HappyTicket\HappyTicket\obj\x86\Debug\HappyTicket.exe
+F:\C#\Coll\HappyTicket\HappyTicket\obj\x86\Debug\HappyTicket.pdb
